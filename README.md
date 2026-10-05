@@ -3,7 +3,7 @@ I am a Data Science and Machine Learning practitioner with hands-on experience i
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tanisha-kiran-n-434151354) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tk09090005) [![portfolio](<img width="2500" height="2500" alt="image" src="https://github.com/user-attachments/assets/5423f920-3056-41e1-890b-587ee3446969" />)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/tanisha-kiran-n-434151354) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tk09090005) [![portfolio](<img width="2500" height="2500" alt="image" src="https://github.com/user-attachments/assets/5423f920-3056-41e1-890b-587ee3446969" />)]
 (https://tanisha-website-delta.vercel.app/)
 
 # 💻 Tech Stack:
